@@ -1,0 +1,1155 @@
+{
+  "episodes": 75,
+  "files": [
+    {
+      "path": "training-videos/交付说明.md",
+      "bytes": 1547,
+      "sha256": "5e941443aa9ac4e97052129089060d4819cdb1dadd239b3066cec66f4eaf2496"
+    },
+    {
+      "path": "training-videos/口播稿.md",
+      "bytes": 30808,
+      "sha256": "ad72410c0f7c2532724c82d2ed3c599615d2a313ad04538d44526a6e236c6784"
+    },
+    {
+      "path": "training-videos/字幕/第01集_字幕.srt",
+      "bytes": 901,
+      "sha256": "8e964b1e3ed0b7f764a13e89d76fa84feb62ac4be5520df40821ff356990a83e"
+    },
+    {
+      "path": "training-videos/字幕/第02集_字幕.srt",
+      "bytes": 756,
+      "sha256": "3edc4f57a49800addbfd989b0d957930d6703b87b0e3150bf27ccad457fdea8c"
+    },
+    {
+      "path": "training-videos/字幕/第03集_字幕.srt",
+      "bytes": 897,
+      "sha256": "d6266a8aab535949dbab49efb54b0e599bbcd55a5d20caa2ae575bc23069eef3"
+    },
+    {
+      "path": "training-videos/字幕/第04集_字幕.srt",
+      "bytes": 979,
+      "sha256": "7f2e3670def69d673e611aa5cd06274e75692591f0871f3819dcf9d09de548a1"
+    },
+    {
+      "path": "training-videos/字幕/第05集_字幕.srt",
+      "bytes": 784,
+      "sha256": "c77842c4f2a2c1c9b3397d05e5c38289603881c9b08f54cf2b4a8d84f5ebcdb4"
+    },
+    {
+      "path": "training-videos/字幕/第06集_字幕.srt",
+      "bytes": 934,
+      "sha256": "be61cc51f6d840afdc9ed0ebca6960bdd33ea385b8048f8cc0c2fa78b4c5e932"
+    },
+    {
+      "path": "training-videos/字幕/第07集_字幕.srt",
+      "bytes": 794,
+      "sha256": "8e0d9c261d9bcaafbf5fa2b2cdb442c22249f8d0358048a8ac5a8c1bfe39198f"
+    },
+    {
+      "path": "training-videos/字幕/第08集_字幕.srt",
+      "bytes": 916,
+      "sha256": "3425c211f5f3d1d7f39dd209d67ea43d5f7459d2fbbef7a7b2f37a4f632a9d87"
+    },
+    {
+      "path": "training-videos/字幕/第09集_字幕.srt",
+      "bytes": 798,
+      "sha256": "6ce6959ad61f6429d29915b1f9b3fe41c398f6bf46e8933b8d9e6236984310d3"
+    },
+    {
+      "path": "training-videos/字幕/第10集_字幕.srt",
+      "bytes": 933,
+      "sha256": "ec850b87b10abcbf4eeb551c837393b0e74a2e515a05972dbdd4a97643b232c1"
+    },
+    {
+      "path": "training-videos/字幕/第11集_字幕.srt",
+      "bytes": 959,
+      "sha256": "ce3511e341a2f89bc43afcfbc701e6ec8e8e66c6d7ca06389d89e3e6b4c66f88"
+    },
+    {
+      "path": "training-videos/字幕/第12集_字幕.srt",
+      "bytes": 857,
+      "sha256": "0e32a506476a60ff2bb5a79530a7705a3d221bda512ec2866bd70e56458e5d9c"
+    },
+    {
+      "path": "training-videos/字幕/第13集_字幕.srt",
+      "bytes": 912,
+      "sha256": "be46efd956950904b899bca0a6a7bcf0d5f4b52dae274c521aa4e352ccde2a41"
+    },
+    {
+      "path": "training-videos/字幕/第14集_字幕.srt",
+      "bytes": 875,
+      "sha256": "3a0fbfbbfe64fbd03e8f6324ab24a8f418c26b64e58f58db278fd52d55e7595c"
+    },
+    {
+      "path": "training-videos/字幕/第15集_字幕.srt",
+      "bytes": 823,
+      "sha256": "18f4e9d6d4129e13d92fe7ba9d398eb7a0a181826deaa3761ed0fa58b244da68"
+    },
+    {
+      "path": "training-videos/字幕/第16集_字幕.srt",
+      "bytes": 797,
+      "sha256": "1c61cbe4cd13353f1b4df8dd40922f9318602b5a1e1dd870bc10b14be0a064fa"
+    },
+    {
+      "path": "training-videos/字幕/第17集_字幕.srt",
+      "bytes": 797,
+      "sha256": "84d0de8d47c279ce5348501fdd226b48827eb6cb89ab7a14bd8ca62abb85e5e2"
+    },
+    {
+      "path": "training-videos/字幕/第18集_字幕.srt",
+      "bytes": 861,
+      "sha256": "2ac923f7b8c75054e0599565ae5ad64782162c62235c7c370aa5fa0bab6f92a5"
+    },
+    {
+      "path": "training-videos/字幕/第19集_字幕.srt",
+      "bytes": 847,
+      "sha256": "dac7ed8cbf6b2b0ab64905dfb0a90f61d8d14cfc51ae7f01a12aba1680b21241"
+    },
+    {
+      "path": "training-videos/字幕/第20集_字幕.srt",
+      "bytes": 824,
+      "sha256": "16eaa76de42172a73e1247500c10f0aa1e15705641bf187437ebb164591d0ca2"
+    },
+    {
+      "path": "training-videos/字幕/第21集_字幕.srt",
+      "bytes": 838,
+      "sha256": "5901e1e8754a4ecc7f25e26426611c1962a683cec8f23bb16973be236a575bae"
+    },
+    {
+      "path": "training-videos/字幕/第22集_字幕.srt",
+      "bytes": 874,
+      "sha256": "aa49394bf456d44e07ec64a093ebf025889f1f5523334af2fae0a77dd1a4172b"
+    },
+    {
+      "path": "training-videos/字幕/第23集_字幕.srt",
+      "bytes": 836,
+      "sha256": "8ca64dd94c42e34db87e80c3d514f83b8fb32207d0031a141ffed52fe796f076"
+    },
+    {
+      "path": "training-videos/字幕/第24集_字幕.srt",
+      "bytes": 806,
+      "sha256": "fc1baf232db5a956be8ec0ef77c6bfcfc48b5d05a11e6b6bc8915d5966aab025"
+    },
+    {
+      "path": "training-videos/字幕/第25集_字幕.srt",
+      "bytes": 820,
+      "sha256": "3284c1c40cfbae7807180ea9cd66071014e92bc866c8967b5ac55f0df0c3bfe7"
+    },
+    {
+      "path": "training-videos/字幕/第26集_字幕.srt",
+      "bytes": 853,
+      "sha256": "2c2edf1c765d34675b016062113f5b93810c48b8d45de3f04666456fac0d4607"
+    },
+    {
+      "path": "training-videos/字幕/第27集_字幕.srt",
+      "bytes": 871,
+      "sha256": "3293567ddeb10d8bff5f0291ad604b85c6a78a21f1be5214d0b60e5d079a0a40"
+    },
+    {
+      "path": "training-videos/字幕/第28集_字幕.srt",
+      "bytes": 803,
+      "sha256": "9ca01e93573f713fe65c08c917cb8d6ff1cadeec8cdd940deb80e890d19fb39b"
+    },
+    {
+      "path": "training-videos/字幕/第29集_字幕.srt",
+      "bytes": 912,
+      "sha256": "a1ade595f2b288ce0629210336b6d9de1683c6ba6c3be72268c4773c977c69aa"
+    },
+    {
+      "path": "training-videos/字幕/第30集_字幕.srt",
+      "bytes": 862,
+      "sha256": "c71c9d4d8f3b4865b867c5dd6f3b9894db209f2ab080de31248580052ae3600f"
+    },
+    {
+      "path": "training-videos/字幕/第31集_字幕.srt",
+      "bytes": 809,
+      "sha256": "d665cfde7a32c9ce38c1bb62edd247da040d704088db4bb270fae9879c5934f2"
+    },
+    {
+      "path": "training-videos/字幕/第32集_字幕.srt",
+      "bytes": 761,
+      "sha256": "b79d67aa47bfd2ad110af9395756a0a50096ea09a22fcc5ef2b096636a25ea79"
+    },
+    {
+      "path": "training-videos/字幕/第33集_字幕.srt",
+      "bytes": 759,
+      "sha256": "bc71de56d764cbd55b6b8cabb001ca7b620d452027efc035d4eb83fef3ac7668"
+    },
+    {
+      "path": "training-videos/字幕/第34集_字幕.srt",
+      "bytes": 843,
+      "sha256": "e2767b0b667296491e22440719e61db3cb1bcf424ff5c0ecfc2d80185249fb17"
+    },
+    {
+      "path": "training-videos/字幕/第35集_字幕.srt",
+      "bytes": 671,
+      "sha256": "6ece86a550882ea1b9ecb7d3a41d54e1657df02ce3d39d87c99a1b8f2faaddfe"
+    },
+    {
+      "path": "training-videos/字幕/第36集_字幕.srt",
+      "bytes": 735,
+      "sha256": "269910fc46730a1a396495ee3960a17d620738cd57d54d668306efc72303982b"
+    },
+    {
+      "path": "training-videos/字幕/第37集_字幕.srt",
+      "bytes": 803,
+      "sha256": "5426761b23761b394214f16a2f9b020d1d5da4cc11b7d1565d1bf2fa9276cb14"
+    },
+    {
+      "path": "training-videos/字幕/第38集_字幕.srt",
+      "bytes": 773,
+      "sha256": "b1d5c5645d59a48293882aa8c391ab050f979fc426edcd1bfcc89351f0adb283"
+    },
+    {
+      "path": "training-videos/字幕/第39集_字幕.srt",
+      "bytes": 756,
+      "sha256": "2ff90c2f0db547de277eef2ebc62107b868ce34da37d4417715e485a6bfde293"
+    },
+    {
+      "path": "training-videos/字幕/第40集_字幕.srt",
+      "bytes": 905,
+      "sha256": "64cbeb2b1af684355d112ac25bd5e0cea7d8d4451f93fdae925930ad86b46678"
+    },
+    {
+      "path": "training-videos/字幕/第41集_字幕.srt",
+      "bytes": 864,
+      "sha256": "cb42a061dba4ee4401b65a7249f7d8e8ce743c11432804a5e97f66af5f538956"
+    },
+    {
+      "path": "training-videos/字幕/第42集_字幕.srt",
+      "bytes": 709,
+      "sha256": "2cbb8f55c0c1ce472dc780264ccbc2225fe9499d3aa6746b5b30f24215222ab4"
+    },
+    {
+      "path": "training-videos/字幕/第43集_字幕.srt",
+      "bytes": 691,
+      "sha256": "562254ccd6abadd7d7b1345ce7f80b16b020af4be993ebc1dcadcbf6cc043beb"
+    },
+    {
+      "path": "training-videos/字幕/第44集_字幕.srt",
+      "bytes": 771,
+      "sha256": "f4f8cac0ca8e31644b22c3b821365eda87ab9c3d6d7430537dc6f24f28d002f7"
+    },
+    {
+      "path": "training-videos/字幕/第45集_字幕.srt",
+      "bytes": 691,
+      "sha256": "53851fd1312b78c217e150e5d41a5b866718894fd38cb3543af867492cf09948"
+    },
+    {
+      "path": "training-videos/字幕/第46集_字幕.srt",
+      "bytes": 750,
+      "sha256": "142cbb4f83cd786c99133affef2eb1c965c41d4d6c7e8de7c6c485fbef1881c9"
+    },
+    {
+      "path": "training-videos/字幕/第47集_字幕.srt",
+      "bytes": 686,
+      "sha256": "5a959a10a093ed73af7025c85246fd05a1e9ef3892dc7f48e3737dfa023c4c08"
+    },
+    {
+      "path": "training-videos/字幕/第48集_字幕.srt",
+      "bytes": 744,
+      "sha256": "aae7052d121948f0050bdad0d77bc70d5a3c1ce6971d4d596923a82c745b523d"
+    },
+    {
+      "path": "training-videos/字幕/第49集_字幕.srt",
+      "bytes": 791,
+      "sha256": "d67541f6dc1dddf77917a6cf5d23e061e5e629f2fad5321c9c7a65d51161932a"
+    },
+    {
+      "path": "training-videos/字幕/第50集_字幕.srt",
+      "bytes": 706,
+      "sha256": "f712276caf226947461a7ac1e89d56270be93d07f3cb683d2717c6107418861f"
+    },
+    {
+      "path": "training-videos/字幕/第51集_字幕.srt",
+      "bytes": 671,
+      "sha256": "35ad8bc16cc0198b188c89b2e35ef5c97594ba99000ff4e253440d3dc9a965a8"
+    },
+    {
+      "path": "training-videos/字幕/第52集_字幕.srt",
+      "bytes": 735,
+      "sha256": "a69daf8907430cbdf9db55f850872d0b421dd96ab692ac4f687c65136366f449"
+    },
+    {
+      "path": "training-videos/字幕/第53集_字幕.srt",
+      "bytes": 777,
+      "sha256": "83d65ef7c0b2fecf8152b5737c871e4f90b4de22a1f6e6aca531f1d58913e6ce"
+    },
+    {
+      "path": "training-videos/字幕/第54集_字幕.srt",
+      "bytes": 747,
+      "sha256": "46c683e29f7c87f7ce448573bbc679221eb3a6f9760ec89785f788a705689a32"
+    },
+    {
+      "path": "training-videos/字幕/第55集_字幕.srt",
+      "bytes": 636,
+      "sha256": "f60bc1de4b2c8376a7e43536367a044a57048c5c389a932ea6c9ce98dba560ea"
+    },
+    {
+      "path": "training-videos/字幕/第56集_字幕.srt",
+      "bytes": 677,
+      "sha256": "3f98dbfc255db77bcef5e1ec5f581cfc47612f9cfe28f7448de7825e784693f3"
+    },
+    {
+      "path": "training-videos/字幕/第57集_字幕.srt",
+      "bytes": 759,
+      "sha256": "412da6f3b0b50063fbd0886c99bcb1d7a14c52ec39d2be0a961bf1ace53b6d70"
+    },
+    {
+      "path": "training-videos/字幕/第58集_字幕.srt",
+      "bytes": 741,
+      "sha256": "e413d738c9bef6137a1cba07f56bdc97dfbecd0ff882c33cdd185d0c7259b6e9"
+    },
+    {
+      "path": "training-videos/字幕/第59集_字幕.srt",
+      "bytes": 773,
+      "sha256": "fd72c4ad4d0db439fb357aa534b91068bcc43482782f4e6f33afcbaed937c73f"
+    },
+    {
+      "path": "training-videos/字幕/第60集_字幕.srt",
+      "bytes": 765,
+      "sha256": "825b4efaf47b1059807b95305f841288a0ab9b5684e3fd4e451b8dee8b19c40d"
+    },
+    {
+      "path": "training-videos/字幕/第61集_字幕.srt",
+      "bytes": 680,
+      "sha256": "bcf3ab5425b24fbd1a09c50e950dfd56a63ce818dc1bde5e8f0266088374dba0"
+    },
+    {
+      "path": "training-videos/字幕/第62集_字幕.srt",
+      "bytes": 662,
+      "sha256": "77594920dbdf30a0cf6adaafadaf4ee27614bfbb403991d1ba954fd1fc201c38"
+    },
+    {
+      "path": "training-videos/字幕/第63集_字幕.srt",
+      "bytes": 639,
+      "sha256": "d7b27f8b43945a01973cd63323184b37b39c5e452a8be4f18fd30c5d0b5bacba"
+    },
+    {
+      "path": "training-videos/字幕/第64集_字幕.srt",
+      "bytes": 738,
+      "sha256": "09850ef47521fe046ed59f00cd52bac05f2e64321ca2dd7ea5abc51472e3d193"
+    },
+    {
+      "path": "training-videos/字幕/第65集_字幕.srt",
+      "bytes": 718,
+      "sha256": "d51087be63ee6b8c9a41de7208fb95d53bb3871b71f9efb3010d510fba7637f9"
+    },
+    {
+      "path": "training-videos/字幕/第66集_字幕.srt",
+      "bytes": 832,
+      "sha256": "b431bfd9b3f596bd24296a656f90fc2062fffa7b25d7df875aab53ada59ec656"
+    },
+    {
+      "path": "training-videos/字幕/第67集_字幕.srt",
+      "bytes": 785,
+      "sha256": "4e8d7c9e6c47df69c2ede502ec994c2e9c3043b07940ef6d37a194ebbae343cf"
+    },
+    {
+      "path": "training-videos/字幕/第68集_字幕.srt",
+      "bytes": 782,
+      "sha256": "38a23dbbbbbbc74ba7e5075d91430e20df5c330dc2756e95a349c77f3a94f80f"
+    },
+    {
+      "path": "training-videos/字幕/第69集_字幕.srt",
+      "bytes": 795,
+      "sha256": "6eadbbbdc498c454dd0130841d7ee1acc9a65394d2e9c1558ef72d801fa89c84"
+    },
+    {
+      "path": "training-videos/字幕/第70集_字幕.srt",
+      "bytes": 636,
+      "sha256": "3a9de9881b3430021f25bf4383fa9d5498ad94558e2b20a26b89c9c157d6217f"
+    },
+    {
+      "path": "training-videos/字幕/第71集_字幕.srt",
+      "bytes": 871,
+      "sha256": "19174181b1c1a7ed4b960e6d5cb8c25e25b11ed26532a8f61980a783da9dcb4c"
+    },
+    {
+      "path": "training-videos/字幕/第72集_字幕.srt",
+      "bytes": 721,
+      "sha256": "7aa46c4db3f4c9a8b2fc2dbe99c79ea39cf3646bf6e01d27f7457b70aa58d71a"
+    },
+    {
+      "path": "training-videos/字幕/第73集_字幕.srt",
+      "bytes": 736,
+      "sha256": "91871a7840d66992f9201d0a291e6d6e06a8ded65e49c40e4728cc644941b489"
+    },
+    {
+      "path": "training-videos/字幕/第74集_字幕.srt",
+      "bytes": 762,
+      "sha256": "dad79a93bfd9d3ff37c839abc1ce9518e800c1a4e7f6476464bec054268d3fbc"
+    },
+    {
+      "path": "training-videos/字幕/第75集_字幕.srt",
+      "bytes": 858,
+      "sha256": "47af9b555fa4b08972b5e3812a331babc689945ed5a38c97f5019a87088bce75"
+    },
+    {
+      "path": "training-videos/封面/01.jpg",
+      "bytes": 23999,
+      "sha256": "53437c1dbc02b41f1448de65f3d7523044bfe09bc96daec90b898b812db6d8cf"
+    },
+    {
+      "path": "training-videos/封面/02.jpg",
+      "bytes": 29443,
+      "sha256": "58f31e1bb97bb1d4a63f1b822b331d5ec3daa99508917482c8facc0d854a7f03"
+    },
+    {
+      "path": "training-videos/封面/03.jpg",
+      "bytes": 25465,
+      "sha256": "03925def2773c1cc5c11eb32e414f65e9316ac1a4bd66154595c121f3cba0351"
+    },
+    {
+      "path": "training-videos/封面/04.jpg",
+      "bytes": 27876,
+      "sha256": "bbb3d4e8cb9841801d653a19436f4e73878e6944776ed93e24313f088cf1d395"
+    },
+    {
+      "path": "training-videos/封面/05.jpg",
+      "bytes": 27615,
+      "sha256": "6e8bed60549f8419e5d5c7c0544c2d302cdcdc89bb554be3b18159da9f8c06d0"
+    },
+    {
+      "path": "training-videos/封面/06.jpg",
+      "bytes": 24083,
+      "sha256": "141346bf89c3f8575910499f7bc814b81a2d38d3c8fb83bd208701df2af9cc60"
+    },
+    {
+      "path": "training-videos/封面/07.jpg",
+      "bytes": 27281,
+      "sha256": "8035a51241ae39547ce47dd4fa740a36cb7b8d2959e1a66edcbf968599750f61"
+    },
+    {
+      "path": "training-videos/封面/08.jpg",
+      "bytes": 31673,
+      "sha256": "23338d1d755d522a4f38f4aba5aef76fc335542bf8d7c2e712b85b7688d3a1a0"
+    },
+    {
+      "path": "training-videos/封面/09.jpg",
+      "bytes": 26828,
+      "sha256": "8d0da4c2a926e32bf4799c2a52ede2ed0738f91d3a43f83ff33c782b55797956"
+    },
+    {
+      "path": "training-videos/封面/10.jpg",
+      "bytes": 20482,
+      "sha256": "f8aacdce5987018829046f11ccb7fc17c1e9be67be9ef939ec30fbd0d6147995"
+    },
+    {
+      "path": "training-videos/封面/11.jpg",
+      "bytes": 20084,
+      "sha256": "f21dbf18b32bb931eee990d1119c4b0e16b7f17e779068211437675f396bb552"
+    },
+    {
+      "path": "training-videos/封面/12.jpg",
+      "bytes": 21105,
+      "sha256": "6e72fca8bdc407827969e5be0d367d2f86fa7803c9c7cf5c14638ae2d4603a19"
+    },
+    {
+      "path": "training-videos/封面/13.jpg",
+      "bytes": 19489,
+      "sha256": "e8e845db77c61ff109b440dd5a9f00747b37a364d44df99721edbe2f5bd3bba4"
+    },
+    {
+      "path": "training-videos/封面/14.jpg",
+      "bytes": 20501,
+      "sha256": "99dde99b6ab920a79f10ced5684d99d79774e7b46e2ff2b709e03482f207911a"
+    },
+    {
+      "path": "training-videos/封面/15.jpg",
+      "bytes": 23410,
+      "sha256": "4f92eb048c48bbe824fcd35bf4401812cbdd4d43f61ec18f3a67f94ed0a08f7c"
+    },
+    {
+      "path": "training-videos/封面/16.jpg",
+      "bytes": 25123,
+      "sha256": "696ac33d7386335b4fd5bc57cd1441969ff871ba8ea2bd37a8a971ad768a6a6e"
+    },
+    {
+      "path": "training-videos/封面/17.jpg",
+      "bytes": 21096,
+      "sha256": "e50cab84a0b7ab2e7a6fb861376fd49e2ae6aa8cb990f2ef7913c7db4b01464b"
+    },
+    {
+      "path": "training-videos/封面/18.jpg",
+      "bytes": 20892,
+      "sha256": "fc5891a287ff915004968671b0c4557dcb55af3183af7a9b5eab75de7be29b4d"
+    },
+    {
+      "path": "training-videos/封面/19.jpg",
+      "bytes": 20630,
+      "sha256": "afc1fc5577541fe6736fa85071b5b3f038988fa5095eb3825464e5815a1c229f"
+    },
+    {
+      "path": "training-videos/封面/20.jpg",
+      "bytes": 21247,
+      "sha256": "828d56382170b267309da750b6666174a4cbd53710de332525b8a232eb6f7f99"
+    },
+    {
+      "path": "training-videos/封面/21.jpg",
+      "bytes": 20921,
+      "sha256": "dacafadf231b2ef51e4a9828ae7d4a29e481ea73e1be6245568d3d5675d327b8"
+    },
+    {
+      "path": "training-videos/封面/22.jpg",
+      "bytes": 20235,
+      "sha256": "803ce42adac064ceb5a7a47cd67178a357a2b1f597c054f19a4b27d1a2f4fdb0"
+    },
+    {
+      "path": "training-videos/封面/23.jpg",
+      "bytes": 27223,
+      "sha256": "e43e871385f5921e37cd9f32a750fb8bdc3a2200aaf0e7fc2e77c8a639751200"
+    },
+    {
+      "path": "training-videos/封面/24.jpg",
+      "bytes": 28450,
+      "sha256": "09d4ae60cb84a519497b861fd101d260b239829a0a483b87db24dc7ddb1bc120"
+    },
+    {
+      "path": "training-videos/封面/25.jpg",
+      "bytes": 24979,
+      "sha256": "17293f583fc5c0e67dd17ee6544727888e9dbaff94eb9f85c5870b4ad9af09e2"
+    },
+    {
+      "path": "training-videos/封面/26.jpg",
+      "bytes": 19524,
+      "sha256": "e11da63f369c80afe32f235d2c019fd3fd3ce6a9f709aa945b19a3c968a85b2a"
+    },
+    {
+      "path": "training-videos/封面/27.jpg",
+      "bytes": 20754,
+      "sha256": "13aa290aee14bb6da990f70d5dc20a2a59205bb3c0eee4369e55da462f13e8d2"
+    },
+    {
+      "path": "training-videos/封面/28.jpg",
+      "bytes": 23556,
+      "sha256": "4b21151830527d02923f2a3bfdaf00826d5e0e45ebcc954b46208181be881d7c"
+    },
+    {
+      "path": "training-videos/封面/29.jpg",
+      "bytes": 25871,
+      "sha256": "ae6cad08d6a39c5619184f0b6db4da27750cdabc6e85a33b918764d16fc62e2d"
+    },
+    {
+      "path": "training-videos/封面/30.jpg",
+      "bytes": 27019,
+      "sha256": "96216e989a812c720044b1a5ee8e4e1a7d59ef69ea321844226e5efc52687990"
+    },
+    {
+      "path": "training-videos/封面/31.jpg",
+      "bytes": 25271,
+      "sha256": "cd61f31da362aa722b1f62b7aeeb2cf7353fe9e0c6b1227343f9844ed9ee2611"
+    },
+    {
+      "path": "training-videos/封面/32.jpg",
+      "bytes": 25655,
+      "sha256": "721b398142fa520a79100916011240754d1755af366f23006c7a59f13d48d9d5"
+    },
+    {
+      "path": "training-videos/封面/33.jpg",
+      "bytes": 20734,
+      "sha256": "b94e5f854361a4ef6c47596586ecf5c7a557cb016819e57b136ba7257ab366f3"
+    },
+    {
+      "path": "training-videos/封面/34.jpg",
+      "bytes": 24283,
+      "sha256": "4e0c432210a64847419fa7930de6c4d2fd003ba72071cadeca27f6e6baa926a6"
+    },
+    {
+      "path": "training-videos/封面/35.jpg",
+      "bytes": 28041,
+      "sha256": "5bffbb3a54e95b590aa194e7b80beb1969ba07e5d89dc0b9a283e2b8801b5c38"
+    },
+    {
+      "path": "training-videos/封面/36.jpg",
+      "bytes": 24246,
+      "sha256": "b94b02bf68d0e42b2b573ceeeddfdc647b37b5511c07022b233c007ad87d3aae"
+    },
+    {
+      "path": "training-videos/封面/37.jpg",
+      "bytes": 24065,
+      "sha256": "f55f7abd8bfaac902abbc32537963c3435a808344451d2c3a11b3f0f4f608ba0"
+    },
+    {
+      "path": "training-videos/封面/38.jpg",
+      "bytes": 24379,
+      "sha256": "8b654cb1560422d542be5c206a022ff26fd67d09971f667edbb725f09fdd52bf"
+    },
+    {
+      "path": "training-videos/封面/39.jpg",
+      "bytes": 24624,
+      "sha256": "92a3833d0f15dbbfaf65904ae6c8da20afb1feed52bf52ab432470026971f21c"
+    },
+    {
+      "path": "training-videos/封面/40.jpg",
+      "bytes": 20411,
+      "sha256": "91538475d873ef2d42a4c1c0c66abf7236989c88fd2c453927ad25b9df21c123"
+    },
+    {
+      "path": "training-videos/封面/41.jpg",
+      "bytes": 28854,
+      "sha256": "20ecfd105e18f0e95a470115f84e949c0482acec626e6b61383b4056888080ef"
+    },
+    {
+      "path": "training-videos/封面/42.jpg",
+      "bytes": 24011,
+      "sha256": "d6e93ec85d62f5938caa26bdbc881b548104ba5b804afc77f21d394ade38cf96"
+    },
+    {
+      "path": "training-videos/封面/43.jpg",
+      "bytes": 28862,
+      "sha256": "7d9be198bb9a1504e20bde4aeafb5cc12c74664a29a6b6863e37dc0d007fa031"
+    },
+    {
+      "path": "training-videos/封面/44.jpg",
+      "bytes": 25259,
+      "sha256": "edecbde0f646236114329eec19f56a8dc2a465bef0d72f346b6458d093536f4c"
+    },
+    {
+      "path": "training-videos/封面/45.jpg",
+      "bytes": 22682,
+      "sha256": "cab1a6f945fe45812918d331179f898ccf8a57db97ba93ca1bbf5741366eb589"
+    },
+    {
+      "path": "training-videos/封面/46.jpg",
+      "bytes": 29593,
+      "sha256": "7ece9b7b53dba16650f3d02b21b9c67660a1c8346d22ff4df6959910c319cb27"
+    },
+    {
+      "path": "training-videos/封面/47.jpg",
+      "bytes": 26913,
+      "sha256": "ed8c6bc0c2d4662b84d66eb9539f8282898f3b03bf29cfbc0df37b323f174ffa"
+    },
+    {
+      "path": "training-videos/封面/48.jpg",
+      "bytes": 26611,
+      "sha256": "cd117f3f75f774069a80084d725fc0cd1e3bdeaa81837c8dc1c4829661b4018f"
+    },
+    {
+      "path": "training-videos/封面/49.jpg",
+      "bytes": 25326,
+      "sha256": "d977bee66dcb829b1cc8e7a3b9c0c84d7f705b06ec8db8af9b8610b36a2f3648"
+    },
+    {
+      "path": "training-videos/封面/50.jpg",
+      "bytes": 23073,
+      "sha256": "4e4470fc3615f91ad05c92649b51b77376e9cf9929e71f75208d2d4c52e2c1a3"
+    },
+    {
+      "path": "training-videos/封面/51.jpg",
+      "bytes": 26539,
+      "sha256": "b51b88432e13a6da56764ec36ded2bead6bd412a896e0edba9412fe709355669"
+    },
+    {
+      "path": "training-videos/封面/52.jpg",
+      "bytes": 19255,
+      "sha256": "f45c380c861d84cbd19ddc7c245cc820c7d5b7781c4ebeae6436dc68a485569d"
+    },
+    {
+      "path": "training-videos/封面/53.jpg",
+      "bytes": 24971,
+      "sha256": "c0eb8894a283db95cf04f0701b03615ce6738797d34df18427cfe0da8a46d2f5"
+    },
+    {
+      "path": "training-videos/封面/54.jpg",
+      "bytes": 25982,
+      "sha256": "43650af901fabd7c6e60630e5f3c74c8085f2cffb9216c3d6f29790ef73bb69d"
+    },
+    {
+      "path": "training-videos/封面/55.jpg",
+      "bytes": 20395,
+      "sha256": "8eb7b85cf2f8579f71a12174da201e906b41e5f5de7bdba49f31b23ea2e335d5"
+    },
+    {
+      "path": "training-videos/封面/56.jpg",
+      "bytes": 23717,
+      "sha256": "29791a9c25fbcc26a70171ee3655e7bbc4da322601bc0ddfe07841e60cdf9c65"
+    },
+    {
+      "path": "training-videos/封面/57.jpg",
+      "bytes": 20891,
+      "sha256": "aa7aba51736ae0f56670e3ce04834e590b156be57585d48dac016b7144f74019"
+    },
+    {
+      "path": "training-videos/封面/58.jpg",
+      "bytes": 28137,
+      "sha256": "b481c24b2462fd9dd8ad7f51a4143dd59a3d4ccae2389d9f0fd73a429a9223c4"
+    },
+    {
+      "path": "training-videos/封面/59.jpg",
+      "bytes": 20040,
+      "sha256": "bdc22660f81c4549c9f1f973636a1d9794db5a21d05c80bb7caa5010c73f7eb9"
+    },
+    {
+      "path": "training-videos/封面/60.jpg",
+      "bytes": 22218,
+      "sha256": "ac58cc41b22663ffb6922b0adbc963333679e0a9bf400c1588dfb8e9a3aa71d0"
+    },
+    {
+      "path": "training-videos/封面/61.jpg",
+      "bytes": 24336,
+      "sha256": "1b9311ec8a3e883155ea2c9672e242fb10267b5f4252851bb458a1f228e9afc3"
+    },
+    {
+      "path": "training-videos/封面/62.jpg",
+      "bytes": 19433,
+      "sha256": "a9800e778a9f135f90026c1592ab060b1e5ed81af2e7e0b55588fc02c58a4b58"
+    },
+    {
+      "path": "training-videos/封面/63.jpg",
+      "bytes": 24991,
+      "sha256": "b6485492bcdb8b4dc810755d65d45850fad628b821505eee6ad00b016740d66e"
+    },
+    {
+      "path": "training-videos/封面/64.jpg",
+      "bytes": 24545,
+      "sha256": "4a2cafa15004530cabd4549ec3fee70a75d6841c991721b833ef5ef67fc9d549"
+    },
+    {
+      "path": "training-videos/封面/65.jpg",
+      "bytes": 28513,
+      "sha256": "e86e5c495684a2848e91cd01814ecdc35564c5e1c2370bb06268d79eb6f36625"
+    },
+    {
+      "path": "training-videos/封面/66.jpg",
+      "bytes": 23086,
+      "sha256": "2876d530e8ad9a95c0d08eb3fdc0c99b4631d5834897ccf0bb32f831e0e0cb2e"
+    },
+    {
+      "path": "training-videos/封面/67.jpg",
+      "bytes": 20798,
+      "sha256": "eaaba898e9e2adc235d9d58926bde594e81bda59993ecfc5c33ef93092e97b06"
+    },
+    {
+      "path": "training-videos/封面/68.jpg",
+      "bytes": 17594,
+      "sha256": "9e822ddd5b077d404ef10f00b352893683d1388a9cbe36d82faa39281ecef8f8"
+    },
+    {
+      "path": "training-videos/封面/69.jpg",
+      "bytes": 21609,
+      "sha256": "82e2e56dd1f042252f71ede475a563c294bf7097c648cb64c6a9bd6a1fb52682"
+    },
+    {
+      "path": "training-videos/封面/70.jpg",
+      "bytes": 21421,
+      "sha256": "4ab0fb13cd267fca404ee2291420d08e8b4795a80872b35ac3b147603da18c97"
+    },
+    {
+      "path": "training-videos/封面/71.jpg",
+      "bytes": 24282,
+      "sha256": "8b01bfb8a64a322c56c29755763dc4cf97a7b76962cf2047571a6e7126d64cdc"
+    },
+    {
+      "path": "training-videos/封面/72.jpg",
+      "bytes": 24400,
+      "sha256": "a2e95c0fef169760b4f19b4d2c6627b6f5bc4eda3062e48e473632bf56ee0886"
+    },
+    {
+      "path": "training-videos/封面/73.jpg",
+      "bytes": 23629,
+      "sha256": "b4241cf475b63e07a6c34f484e3460f77344a33ebfa285933d463917feb2a88d"
+    },
+    {
+      "path": "training-videos/封面/74.jpg",
+      "bytes": 25955,
+      "sha256": "63e7808106142dec938da4cc484d39e1da818cce99be2c5b28df5962817543b8"
+    },
+    {
+      "path": "training-videos/封面/75.jpg",
+      "bytes": 24528,
+      "sha256": "4419524811c670f8fd3cfbfcdcf0fab0814e74c57af24cb29365b0894a5c56e5"
+    },
+    {
+      "path": "training-videos/观看目录.html",
+      "bytes": 41812,
+      "sha256": "d54379d44382f833837f0224cd7a4762e56821f50afe3367325b5e61b9e6ca8e"
+    },
+    {
+      "path": "training-videos/视频/第01集_找到自己任教的班级.mp4",
+      "bytes": 1641267,
+      "sha256": "4ed682a296f4c072b8aa1ad6d39a5f0ba6422b7c4341947daae6c6ae4a4fbc46"
+    },
+    {
+      "path": "training-videos/视频/第02集_连着上课怎么切换班级.mp4",
+      "bytes": 1091074,
+      "sha256": "8d971f1eb480546b25bbc0f96264425e2dbbbeb38d176fa4004c2e8f77812122"
+    },
+    {
+      "path": "training-videos/视频/第03集_怎么返回课堂首页.mp4",
+      "bytes": 1736995,
+      "sha256": "1cceb73e26674e9b8876b0703804218064bcaf59f8f66ce3d67da11d276c3d54"
+    },
+    {
+      "path": "training-videos/视频/第04集_切换今天近一周近一月.mp4",
+      "bytes": 1223119,
+      "sha256": "6f08671a1617066ab6768f9c87c2c4321a9b99556a9ef4b4562a19845aa81ac0"
+    },
+    {
+      "path": "training-videos/视频/第05集_查找学生档案.mp4",
+      "bytes": 1152976,
+      "sha256": "0dd6781eb6c54ac8d0aabec804be1042e2efb8af664bfdf4126499af8768dbe1"
+    },
+    {
+      "path": "training-videos/视频/第06集_区分暂无数据和加载失败.mp4",
+      "bytes": 1238302,
+      "sha256": "0f119bcdb93219c62fe582b2d8b15304bc727803e065e522d4167a136f6723e4"
+    },
+    {
+      "path": "training-videos/视频/第07集_找到本班人脸录入入口.mp4",
+      "bytes": 1037138,
+      "sha256": "0c15f5ccf52e0ae03b6b17e12a41fc40331a50d77d7ddc814c16917bba76add8"
+    },
+    {
+      "path": "training-videos/视频/第08集_找出本班未录人脸学生.mp4",
+      "bytes": 1187651,
+      "sha256": "7b41bf1659868d8ee7000073a7f8809fd4f0c7b85a051c163eeeddfea608cfa9"
+    },
+    {
+      "path": "training-videos/视频/第09集_选择注册站并查看配对码.mp4",
+      "bytes": 1091342,
+      "sha256": "a20bb1deadff37f1640e48620a8bed674163b803cfe3d73a2f95c635fe2e28a4"
+    },
+    {
+      "path": "training-videos/视频/第10集_组织学生逐个录入人脸.mp4",
+      "bytes": 1060694,
+      "sha256": "1b9703781de2c141a8036b7489dc27937a47fddee74a54cfa8bee89b7d1bee92"
+    },
+    {
+      "path": "training-videos/视频/第11集_用手机给单个学生补录.mp4",
+      "bytes": 1209475,
+      "sha256": "14a92486d7e420d848a0f7db43c6eeb432e39d70dd133d8959eaad66ad3ebf03"
+    },
+    {
+      "path": "training-videos/视频/第12集_核对已录状态和剩余名单.mp4",
+      "bytes": 1048872,
+      "sha256": "cb30a1464f37960a906052d2ac952178c436dad54beb313512b83b2f20997778"
+    },
+    {
+      "path": "training-videos/视频/第13集_给已录学生重新补拍人脸.mp4",
+      "bytes": 1044185,
+      "sha256": "7dd8a69182e0b09974b49ae57f12e673dc5bbc9e9694fc07b4fc39dd87541e12"
+    },
+    {
+      "path": "training-videos/视频/第14集_查看今日训练方案.mp4",
+      "bytes": 1005616,
+      "sha256": "48059b9efe8b52e1b7cc2bc4bb58eed019c7f435c9925532597b8d2c0a49189a"
+    },
+    {
+      "path": "training-videos/视频/第15集_查看动作玩法和注意事项.mp4",
+      "bytes": 986760,
+      "sha256": "f9678cba6b8c232e749556dc7cdb83a29fd683e32af71a4697929e1170b63f5d"
+    },
+    {
+      "path": "training-videos/视频/第16集_替换方案中的一个动作.mp4",
+      "bytes": 979488,
+      "sha256": "aecb50b9cffb6c5cdb438554a452346f6855f4ac37fa627e46a555f18cbbc25a"
+    },
+    {
+      "path": "training-videos/视频/第17集_调整训练目标为协调.mp4",
+      "bytes": 992631,
+      "sha256": "2377bcae23dcdacb3ad8654c8fe02666c4691c8f0c317b2a4b7ed135cd8e0661"
+    },
+    {
+      "path": "training-videos/视频/第18集_选择篮球主题和教案侧重.mp4",
+      "bytes": 1007429,
+      "sha256": "0697f80518d26aeecbe1b338d31eba6945eb24a5d6c779dae77d2f0cdfe75e95"
+    },
+    {
+      "path": "training-videos/视频/第19集_调整训练方案时长.mp4",
+      "bytes": 1000200,
+      "sha256": "cbc3755eab499779c322151360e8fd59d51721beb0ee6048aba12a2e2d2d6add"
+    },
+    {
+      "path": "training-videos/视频/第20集_确认方案并采纳教案.mp4",
+      "bytes": 1020002,
+      "sha256": "9e668f20c5dc03e859ea17ee7c9773020e27e0d6ca65d067cf95801d1c7db732"
+    },
+    {
+      "path": "training-videos/视频/第21集_找到收整放松活动.mp4",
+      "bytes": 1045938,
+      "sha256": "23dc142ae015a36249513731d5aba659539df13e464af561acdb753e7286b3f2"
+    },
+    {
+      "path": "training-videos/视频/第22集_查看未参与运动的学生.mp4",
+      "bytes": 1162475,
+      "sha256": "04801dc00fe96ffbd3ea655f6caad3fa8c860336156d1e6b547bf8cff2c95621"
+    },
+    {
+      "path": "training-videos/视频/第23集_读懂班级态势墙颜色.mp4",
+      "bytes": 1056621,
+      "sha256": "1f9b9ab234f4fdd2b91e8d1ca68c45586e378446909746d3dd0526fe38266114"
+    },
+    {
+      "path": "training-videos/视频/第24集_标记和撤销今日请假.mp4",
+      "bytes": 1067750,
+      "sha256": "9883c8adefd660c16da8c5af32c4605b057f429396b5a481efd9af1881f4e667"
+    },
+    {
+      "path": "training-videos/视频/第25集_为50米选择跑道场地.mp4",
+      "bytes": 999134,
+      "sha256": "849923cce1e077d99608841088e61bb24bcbba8f73e33a2d89f8096f32d4b985"
+    },
+    {
+      "path": "training-videos/视频/第26集_选择一组学生并找到开始入口.mp4",
+      "bytes": 1035563,
+      "sha256": "c5c96bd090df55aa8f8bd42f5ac4e7b46e2c89657da0ac394e2751611e3ee935"
+    },
+    {
+      "path": "training-videos/视频/第27集_查看50米完成情况和成绩区域.mp4",
+      "bytes": 968853,
+      "sha256": "0e46d858da6a71484c032ac35339bc79850de483ecef810ce44befe5028ac062"
+    },
+    {
+      "path": "training-videos/视频/第28集_核对50米未测名单.mp4",
+      "bytes": 1214263,
+      "sha256": "f5ce1fc9573c2fd3c642e65c38b45a76c5b0ce83b0871ec16623268f6a882c2f"
+    },
+    {
+      "path": "training-videos/视频/第29集_找到中长跑分波入口.mp4",
+      "bytes": 1109060,
+      "sha256": "8c5d1e8b5a4362003b455e2edd8f2b6d5beaaeca007135b5403946e70e0936af"
+    },
+    {
+      "path": "training-videos/视频/第30集_查看仰卧起坐项目完成情况.mp4",
+      "bytes": 1166505,
+      "sha256": "d536775ab04c06f2ac363b29229a6efc3214469e43fb090471cbac5ed2e9c28a"
+    },
+    {
+      "path": "training-videos/视频/第31集_阳光跑记录_在哪里看.mp4",
+      "bytes": 968799,
+      "sha256": "eb3456580c194eedd7b6d7eabae0998c5c4412e4935f1e281de724f4dde689a5"
+    },
+    {
+      "path": "training-videos/视频/第32集_今天的考核计划_在哪里.mp4",
+      "bytes": 961157,
+      "sha256": "0b5e3b1d7124f0e99e016f03b457e8103dec35eee709b555298c87e24c3f12be"
+    },
+    {
+      "path": "training-videos/视频/第33集_怎样新建一次班级考核.mp4",
+      "bytes": 983815,
+      "sha256": "83682f84778e732cef78a0bd4a314e2a222c2feb60f8346bd75bc1854d349a39"
+    },
+    {
+      "path": "training-videos/视频/第34集_考核类型_怎么选.mp4",
+      "bytes": 955952,
+      "sha256": "bd4d1f57fa5011193c563aae8b8e3f0b5079fc6e80a8e6bc5c11b30e3e9d293b"
+    },
+    {
+      "path": "training-videos/视频/第35集_多个班一起测_怎么选.mp4",
+      "bytes": 876274,
+      "sha256": "b0a9426ca2f4e4e8feba37516844a76630b3796225ffbcc457d60fec1d0e9af6"
+    },
+    {
+      "path": "training-videos/视频/第36集_考核日期_在哪里设置.mp4",
+      "bytes": 839199,
+      "sha256": "5b558b69c6172a343f84dfbfb7a526d6f71cce34ea69d8636f9643144fa47862"
+    },
+    {
+      "path": "training-videos/视频/第37集_开考前_怎样核对名单.mp4",
+      "bytes": 887976,
+      "sha256": "9e0ac5ab8b127816470ffbfcef92e8be41e9c84e47136a89f982ff5e0588c9e3"
+    },
+    {
+      "path": "training-videos/视频/第38集_考核学生_怎样分组.mp4",
+      "bytes": 848388,
+      "sha256": "55e65206a015c788bda56a0d2b8461e7695e3dba9f13bf4bbdf2a5459b022468"
+    },
+    {
+      "path": "training-videos/视频/第39集_学生就位_怎样开始考核.mp4",
+      "bytes": 885749,
+      "sha256": "1042804548286f31f5e4be11ab45d8ba1a3b03e461eb71cd3476cd90a87d22f8"
+    },
+    {
+      "path": "training-videos/视频/第40集_未测、缺考等状态_怎么看.mp4",
+      "bytes": 907470,
+      "sha256": "d75c96043b713fb36de2e833ba7a0a920338b268b020fc07f3b8ec71022c10fc"
+    },
+    {
+      "path": "training-videos/视频/第41集_考核结束_什么时候封盘.mp4",
+      "bytes": 858528,
+      "sha256": "8759b1aa70a4b8d9bb6651fdb51faa505ea3b7d0b82f7fcf1063450e5d149a2d"
+    },
+    {
+      "path": "training-videos/视频/第42集_正在进行的训练_在哪里.mp4",
+      "bytes": 856415,
+      "sha256": "ac84e3f51a5de0c1f5a6fc9bd0ba26df7f746815f41cd2ffa3a1b6f6d7b9e07b"
+    },
+    {
+      "path": "training-videos/视频/第43集_补练学生_怎样选能力.mp4",
+      "bytes": 961024,
+      "sha256": "6d87a25c51180c996cf2fe66ed3bdb34dce6bd6462742a35b67c345a607b5f10"
+    },
+    {
+      "path": "training-videos/视频/第44集_按分数筛选_怎么操作.mp4",
+      "bytes": 907219,
+      "sha256": "c2533b64c847a0ccd774f9ba58e0db84f9ac815208f36644e51dc92eb3d50ccb"
+    },
+    {
+      "path": "training-videos/视频/第45集_下发训练前_怎样核对学生.mp4",
+      "bytes": 904802,
+      "sha256": "02900462b68eb91b1ca03a445d217f1ed87b13b93a4cb86be12510beae50f22d"
+    },
+    {
+      "path": "training-videos/视频/第46集_训练动作不合适_怎么调.mp4",
+      "bytes": 1071500,
+      "sha256": "adac3e757c5c6fd12d74558546380a49a083d5a27884fe62a4a25c14bed1d12c"
+    },
+    {
+      "path": "training-videos/视频/第47集_训练方案_怎样确认下发.mp4",
+      "bytes": 940303,
+      "sha256": "a6449ce1d687f3b38aaea6716992e4eb63f759e1cc37f8fe8ace3326fe07a75f"
+    },
+    {
+      "path": "training-videos/视频/第48集_训练做没做、进步没进步.mp4",
+      "bytes": 856541,
+      "sha256": "cec0a29e0d4da044df8d009ed9606b6bfc6d82994d083f94537012f874d7f31b"
+    },
+    {
+      "path": "training-videos/视频/第49集_一轮练完_怎样再开一批.mp4",
+      "bytes": 956435,
+      "sha256": "4fa1ad17745d62edd703f4fc4bd17b47692fe68af6ffa5c2174200ab1ecbb87f"
+    },
+    {
+      "path": "training-videos/视频/第50集_全班最需要加强什么.mp4",
+      "bytes": 941286,
+      "sha256": "e84fbd5e469347a2a1c216bc1db67888ce82073f1304ed5161f9704a577dd160"
+    },
+    {
+      "path": "training-videos/视频/第51集_某个学生的优势短板怎么看.mp4",
+      "bytes": 987005,
+      "sha256": "6c95cb00faa489645b30917ba7a90f23f7e7330ac7c0c8188cf9c2f95e5dd096"
+    },
+    {
+      "path": "training-videos/视频/第52集_学生以前的运动成绩在哪里.mp4",
+      "bytes": 871244,
+      "sha256": "476285df8103815a7276be792aa2ec3bd20982b456390955d0274fd059232aa5"
+    },
+    {
+      "path": "training-videos/视频/第53集_一次运动的过程评价怎么看.mp4",
+      "bytes": 1047436,
+      "sha256": "8b7eb1c877fd514af3fbffc20437e6be51a9f4b3347b07dccf506d7625a88ea7"
+    },
+    {
+      "path": "training-videos/视频/第54集_学生获得的勋章在哪里.mp4",
+      "bytes": 960170,
+      "sha256": "35bd4601cafc65f9568fe0f2908a9a949f9c2865be99b47bb16520e6983fa7b1"
+    },
+    {
+      "path": "training-videos/视频/第55集_国测还有多少人没测.mp4",
+      "bytes": 979557,
+      "sha256": "70b18cbd93453f73fd514c71fd1125199934db165be989bff283b06fec9b0979"
+    },
+    {
+      "path": "training-videos/视频/第56集_期中期末报表_在哪里.mp4",
+      "bytes": 797722,
+      "sha256": "950ff4028c1a34377a69eaa75d7ed45701aab48c93782668dc8eadcb3555e4aa"
+    },
+    {
+      "path": "training-videos/视频/第57集_中考预测分_怎样理解.mp4",
+      "bytes": 1081752,
+      "sha256": "6d2b1bf5584dc790c6a8f8d422352acdaf5d1512ead86b26459afd62d59172e5"
+    },
+    {
+      "path": "training-videos/视频/第58集_怎样创建一场跳绳比赛.mp4",
+      "bytes": 988026,
+      "sha256": "934a5560e6b1664c1de5a9c0fa4bcfa7087fccc5077a8a6bb2d55c00f5c5a165"
+    },
+    {
+      "path": "training-videos/视频/第59集_团体、接力、个人_怎么选.mp4",
+      "bytes": 918163,
+      "sha256": "4926b9810cd194caa4df074877ed3d14d32416e4995edb8a14509ff4f03ccd6e"
+    },
+    {
+      "path": "training-videos/视频/第60集_比赛时间和单双摇怎么设.mp4",
+      "bytes": 920886,
+      "sha256": "eeff83f807ef99e166cf46c4bdabafd4fa340602bef3c77d83de0dea9d5d5f6d"
+    },
+    {
+      "path": "training-videos/视频/第61集_参赛学生_怎样选和分组.mp4",
+      "bytes": 882927,
+      "sha256": "a077f23888e5c554623254405bd3697e1b4bd8ad656c44ac4c0429b12a62163b"
+    },
+    {
+      "path": "training-videos/视频/第62集_学生该拿哪根跳绳.mp4",
+      "bytes": 839997,
+      "sha256": "13852637e3e2e7f07413edde1ac769cbaeeaee5b6d23792354fa741f40904252"
+    },
+    {
+      "path": "training-videos/视频/第63集_比赛前跳绳离线_先查哪里.mp4",
+      "bytes": 918163,
+      "sha256": "2f58edf480283e9977829968b0ef7a93525aeb7924ee8a5a0b8841d27a7dd2da"
+    },
+    {
+      "path": "training-videos/视频/第64集_学生准备好_怎样开始比赛.mp4",
+      "bytes": 900019,
+      "sha256": "5194aada3bf5cad7347fdf0932ac0103d72dce97a760d76888c91b396583e3ef"
+    },
+    {
+      "path": "training-videos/视频/第65集_比赛成绩和排名在哪里.mp4",
+      "bytes": 973464,
+      "sha256": "f14188395d5fab337bb7a0a9c42695eeed1b07c411e79b09e7635f77a7174242"
+    },
+    {
+      "path": "training-videos/视频/第66集_怎样核对本班学生名单.mp4",
+      "bytes": 962238,
+      "sha256": "9e4ad5ed5c00e25f2532f75091ab747e3d2f0e67661b7987f32d5ce45ea15344"
+    },
+    {
+      "path": "training-videos/视频/第67集_新转入学生_怎样补进班级.mp4",
+      "bytes": 912902,
+      "sha256": "f5a46ab515d004218dc570203e869ed49bdcbba578137730f19b23e2390c6754"
+    },
+    {
+      "path": "training-videos/视频/第68集_怎样新建一个班级.mp4",
+      "bytes": 920153,
+      "sha256": "20fe4340caf55e119a2d0ff2c9be8d2808e73f9a1e6a0654bd0a75195cc68aba"
+    },
+    {
+      "path": "training-videos/视频/第69集_老师任教班级_在哪里核对.mp4",
+      "bytes": 940278,
+      "sha256": "c6de34a96dc4958a0d59902a1a066f19c0858cf2e892459e5f24e60ab3192642"
+    },
+    {
+      "path": "training-videos/视频/第70集_上课前_怎样检查设备在线.mp4",
+      "bytes": 866391,
+      "sha256": "096ab18d687b7553638c20fab2f531b35a96ff05681f72f4311e0bd13c0c4dc8"
+    },
+    {
+      "path": "training-videos/视频/第71集_设备每天开放时间怎么设.mp4",
+      "bytes": 1018110,
+      "sha256": "07ae4bf36fd88329730fd9a274ee8c08e9ea54cafb383ee9d63ae73be9d1f080"
+    },
+    {
+      "path": "training-videos/视频/第72集_设备音量_在哪里调整.mp4",
+      "bytes": 848616,
+      "sha256": "c606a0e20766f8ca3d555d6ee0cd5c3ee365a3ef28e49e88be257569b0e11dad"
+    },
+    {
+      "path": "training-videos/视频/第73集_临时用设备_怎样开放30分钟.mp4",
+      "bytes": 951490,
+      "sha256": "2da01af63783da6c7d18c6efe73a77b94e2a164a4ceba3ae06c3aedcad6f194d"
+    },
+    {
+      "path": "training-videos/视频/第74集_一箱跳绳_怎样整班配发.mp4",
+      "bytes": 987154,
+      "sha256": "0c0dd47167601ad350a2beba295491987229f46ea6c0f5b032e7997dc37e48d3"
+    },
+    {
+      "path": "training-videos/视频/第75集_设备不能用_怎样提交报修.mp4",
+      "bytes": 975075,
+      "sha256": "29a8d2838a067b990d9147b070bd109edf94a4af27f4081e2b7f0a634871cc85"
+    },
+    {
+      "path": "training-videos/视频目录.md",
+      "bytes": 7980,
+      "sha256": "6b467fcba578aaf858ab68f5586646a33d3bd178fdc656720b72c36db3e987eb"
+    },
+    {
+      "path": "training-videos/课程目录.csv",
+      "bytes": 14503,
+      "sha256": "532a1ff8a3a0c47a097d3e51b386d07ca6abbafe8a7d895bfd4ede56803f057a"
+    }
+  ]
+}
